@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://github.com/Prathmesh-Rathod/Prathmesh-Rathod/raw/main/glitchy-blob.gif" width="40"/> I'm Prathmesh</h1>
+<h1>Hey <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="40"/>, I'm Prathmesh</h1>
 
 <p>
 I'm a <strong>Software Engineer</strong> with 3.5+ years of professional experience specializing in 
