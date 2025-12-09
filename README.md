@@ -3,7 +3,8 @@
 <p>
 I'm a <strong>Software Engineer</strong> with 3.5+ years of professional experience specializing in 
 <strong>distributed systems, backend engineering, and large-scale data infrastructure</strong>.  
-I build systems that don't just work—they learn and evolve. With a solid grasp of software, data, and infrastructure, I love turning complex problems into innovative, scalable solutions that actually make a difference.
+I build ML systems that don't just work—they learn and evolve. With a solid grasp of software, data, and infrastructure, 
+I love turning complex problems into innovative, scalable solutions that actually make a difference.
 
 I hold a <strong>Master's degree</strong> in Industrial Engineering from the 
 <a href="https://illinois.edu/" target="_blank"><strong>University of Illinois at Urbana-Champaign</strong></a> 
