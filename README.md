@@ -8,8 +8,7 @@ I love turning complex problems into innovative, scalable solutions that actuall
 
 I hold a <strong>Master's degree</strong> in Industrial Engineering from the 
 <a href="https://illinois.edu/" target="_blank"><strong>University of Illinois at Urbana-Champaign</strong></a> 
-with a specialization in <strong>Advanced Analytics</strong>.  
-I'm a problem-solver, data enthusiast, and product-driven engineer with a growing love for impactful products.
+with a specialization in <strong>Advanced Analytics</strong>. I'm a problem-solver, data enthusiast, and product-driven engineer with a growing love for impactful products.
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -17,7 +16,7 @@ I'm a problem-solver, data enthusiast, and product-driven engineer with a growin
 <img align="right" src="https://github.com/Prathmesh-Rathod/Prathmesh-Rathod/raw/main/Computer%20Working%20GIF.gif" width="250" height="250" />
 
 <ul>
-  <li>Skilled in <strong>Distributed Systems</strong>, <strong>Algorithms</strong>, and <strong>Low-latency Backend Design</strong></li>
+  <li>Skilled in <strong>Distributed Systems</strong>, <strong>Data Structures</strong></li>  and  <strong>Algorithms</strong>,
   <li>Experienced with <strong>AWS, DevOps, and CI/CD pipelines</strong></li>
   <li>3.5+ years building reliable, scalable applications</li>
   <li>Love football ⚽, video games 🎮, and psychological thrillers 🎬</li>
