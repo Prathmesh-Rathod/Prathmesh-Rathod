@@ -16,7 +16,7 @@ with a specialization in <strong>Advanced Analytics</strong>. I'm a problem-solv
 <img align="right" src="https://github.com/Prathmesh-Rathod/Prathmesh-Rathod/raw/main/Computer%20Working%20GIF.gif" width="250" height="250" />
 
 <ul>
-  <li>Skilled in <strong>Distributed Systems</strong>, <strong>Data Structures</strong></li>  and  <strong>Algorithms</strong>,
+  <li>Skilled in <strong>Distributed Systems</strong>, <strong>Data Structures</strong> and <strong>Algorithms</strong>,
   <li>Experienced with <strong>AWS, DevOps, and CI/CD pipelines</strong></li>
   <li>3.5+ years building reliable, scalable applications</li>
   <li>Love football ⚽, video games 🎮, and psychological thrillers 🎬</li>
