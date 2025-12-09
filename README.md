@@ -14,7 +14,7 @@ I'm a problem-solver, data enthusiast, and product-driven engineer with a growin
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt3b2ltYXJnbTVqb2d2ZGMyYWRjMmp6Nzc1ZW5iN3ZrbTNuODByayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="250" height="250" />
+<img align="right" src="https://github.com/Prathmesh-Rathod/Prathmesh-Rathod/raw/main/Computer%20Working%20GIF.gif" width="250" height="250" />
 
 <ul>
   <li>Skilled in <strong>Distributed Systems</strong>, <strong>Algorithms</strong>, and <strong>Low-latency Backend Design</strong></li>
