@@ -1,7 +1,7 @@
 <h1>Hey <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="40"/>, I'm Prathmesh</h1>
 
 <p>
-I'm a <strong>Data enthusiast</strong> specializing in 
+I love <strong>Data.</strong> I specialize in 
 <strong>distributed systems, backend engineering, and large-scale data infrastructure</strong>.  
 I build ML systems that don't just work—they learn and evolve. With a solid grasp of software, data, and infrastructure, 
 I love turning complex problems into innovative, scalable solutions that actually make a difference.
