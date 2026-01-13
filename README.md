@@ -1,7 +1,7 @@
 <h1>Hey <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="40"/>, I'm Prathmesh</h1>
 
 <p>
-I'm a <strong>Software Engineer</strong> with 3.5+ years of professional experience specializing in 
+I'm a <strong>Data enthusiastr</strong> specializing in 
 <strong>distributed systems, backend engineering, and large-scale data infrastructure</strong>.  
 I build ML systems that don't just work—they learn and evolve. With a solid grasp of software, data, and infrastructure, 
 I love turning complex problems into innovative, scalable solutions that actually make a difference.
@@ -18,7 +18,7 @@ with a specialization in <strong>Advanced Analytics</strong>. I'm a problem-solv
 <ul>
   <li>Skilled in <strong>Distributed Systems</strong>, <strong>Data Structures</strong> and <strong>Algorithms</strong>
   <li>Experienced with <strong>AWS, DevOps, and CI/CD pipelines</strong></li>
-  <li>3.5+ years building reliable, scalable applications</li>
+  <li>Expert in building reliable, scalable applications</li>
   <li>Love football ⚽, video games 🎮, and psychological thrillers 🎬</li>
   <li>Favourite quote: <strong>You are what you believe you are</strong></li>
   <li>Cat lover</li>
